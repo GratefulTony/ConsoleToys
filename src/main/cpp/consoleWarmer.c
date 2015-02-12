@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <unistd.h>
 
-srand(time(0));
+srand(5);
 
 int n = 60;
 int n2 = 20;
