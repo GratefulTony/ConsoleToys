@@ -1,5 +1,5 @@
-#include <ctime>
-#include <cstdlib>
+#include <time.h>
+#include <stdlib.h>
 #include <unistd.h>
 
 srand(time(0));
